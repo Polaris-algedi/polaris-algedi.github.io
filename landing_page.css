@@ -1,0 +1,57 @@
+section#intro-section {
+    background-image: url(intro_image.jpg);
+    background-size: cover;
+}
+
+section#intro-section .wrap-headline {
+    position: relative;
+    padding-top: 20%;
+    padding-bottom: 40%;
+}
+
+section#intro-section h1 {
+    font-size: 5rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+section#intro-section p {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+section#intro-section h1,
+section#intro-section h2,
+section#intro-section p {
+    color: #FFF;
+}
+
+section#intro-section h2 {
+    font-size: 1.5rem;
+}
+   section#intro-section hr {
+    width: 10%;
+}
+
+section#intro-section .btn-default {
+    background-color: rgba(255, 255, 255, 0.5);
+    border: none;
+}
+
+
+
+
+section#about-section {
+    background: linear-gradient(90deg, rgba(189,101,59,1) 0%, rgba(241,196,153,1) 49%, rgba(168,64,64,1) 100%);
+}
+
+
+section#about-section h2 {
+    font-size: 4rem;
+    font-weight: 700;
+}
+
+section#about-section p {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
